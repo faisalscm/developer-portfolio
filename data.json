@@ -1,107 +1,108 @@
 {
     "total": 12,
     "data": [{
-        "name":"ANTONEY MATHAI",
-        "role":"Frontend webdeveloper",
-        "skills":"HTML CSS JS",
-        "price":2500,
-        "country":"INDIA",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbda7d2f7ba21c76d18457_antoney%20mathai-p-500.png"
-    }]
-    
-        "data": [{
-        "name":"MARK THED",
-        "role":"Backend webdeveloper",
-        "skills":"PYTHON DJANGO MYSQL",
-        "price":3000,
-        "country":"USA",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbdedae93ebbfe9b40791a_mark%20threadgold.jpg"
-    }]
-  "data": [{
-        "name":"BEAR GRILL",
-        "role":"Fullstack webdeveloper",
-        "skills":"WORDPRESS WEBFLOW",
-        "price":4000,
-        "country":"CANADA",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbd9f51f30ad3ca2c6a7f0_az%20moyer-p-500.jpeg"
-    }]
+            "name": "ANTONEY MATHAI",
+            "role": "Frontend webdeveloper",
+            "skills": "HTML CSS JS",
+            "price": 2500,
+            "country": "INDIA",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbda7d2f7ba21c76d18457_antoney%20mathai-p-500.png"
+        },
 
-   "data": [{
-        "name":"JACKSON",
-        "role":"Fullstack webdeveloper",
-        "skills":"WIX SHOPIFY",
-        "price":3500,
-        "country":"CANADA",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5fc5654371789c20ff80743c_vince-adriatico-p-500.jpeg"
-    }]
+        {
+            "name": "MARK THED",
+            "role": "Backend webdeveloper",
+            "skills": "PYTHON DJANGO MYSQL",
+            "price": 3000,
+            "country": "USA",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbdedae93ebbfe9b40791a_mark%20threadgold.jpg"
+        },
+        {
+            "name": "BEAR GRILL",
+            "role": "Fullstack webdeveloper",
+            "skills": "WORDPRESS WEBFLOW",
+            "price": 4000,
+            "country": "CANADA",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbd9f51f30ad3ca2c6a7f0_az%20moyer-p-500.jpeg"
+        },
 
-"data": [{
-        "name":"DONNIE KIM",
-        "role":"Frontend webdeveloper",
-        "skills":"HTML CSS JS",
-        "price":2400,
-        "country":"CHINA",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbdac288219ca3c8a79237_donnie%20kim.png"
-    }]
-    
-        "data": [{
-        "name":"PHILIP JAN",
-        "role":"Backend webdeveloper",
-        "skills":"PYTHON DJANGO MYSQL",
-        "price":3100,
-        "country":"JAPAN",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbddaebca2fa05f0909684_philip%20abraham1.jpg"
-    }]
-  "data": [{
-        "name":"SAM SAB",
-        "role":"Fullstack webdeveloper",
-        "skills":"WORDPRESS WEBFLOW",
-        "price":4100,
-        "country":"UGANDA",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5fbf34ffe64063d5e7dbeec4_Sam.jpg"
-    }]
+        {
+            "name": "JACKSON",
+            "role": "Fullstack webdeveloper",
+            "skills": "WIX SHOPIFY",
+            "price": 3500,
+            "country": "CANADA",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5fc5654371789c20ff80743c_vince-adriatico-p-500.jpeg"
+        },
 
-   "data": [{
-        "name":"JACKSON",
-        "role":"Fullstack webdeveloper",
-        "skills":"WIX SHOPIFY",
-        "price":3500,
-        "country":"CANADA",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5fc5654371789c20ff80743c_vince-adriatico-p-500.jpeg"
-    }]
+        {
+            "name": "DONNIE KIM",
+            "role": "Frontend webdeveloper",
+            "skills": "HTML CSS JS",
+            "price": 2400,
+            "country": "CHINA",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbdac288219ca3c8a79237_donnie%20kim.png"
+        },
 
-"data": [{
-        "name":"HARI POU",
-        "role":"Frontend webdeveloper",
-        "skills":"HTML CSS JS",
-        "price":2300,
-        "country":"SRILANKA",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbe10fb414c7471aa7fd12_braden%20cox-p-500.png"
-    }]
-    
-        "data": [{
-        "name":"NITHIN BOROUA",
-        "role":"Backend webdeveloper",
-        "skills":"PYTHON DJANGO MYSQL",
-        "price":3600,
-        "country":"NEPAL",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbe84981168b0eaf8f8381_ricky%20altizer1-p-500.jpeg"
-    }]
-  "data": [{
-        "name":"HAM BURG",
-        "role":"Fullstack webdeveloper",
-        "skills":"WORDPRESS WEBFLOW",
-        "price":4600,
-        "country":"UK",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5f5a8e00fc5939ce390e18b5_Evan.png"
-    }]
+        {
+            "name": "PHILIP JAN",
+            "role": "Backend webdeveloper",
+            "skills": "PYTHON DJANGO MYSQL",
+            "price": 3100,
+            "country": "JAPAN",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbddaebca2fa05f0909684_philip%20abraham1.jpg"
+        },
+        {
+            "name": "SAM SAB",
+            "role": "Fullstack webdeveloper",
+            "skills": "WORDPRESS WEBFLOW",
+            "price": 4100,
+            "country": "UGANDA",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5fbf34ffe64063d5e7dbeec4_Sam.jpg"
+        },
 
-   "data": [{
-        "name":"FONNI MIE",
-        "role":"Fullstack webdeveloper",
-        "skills":"WIX SHOPIFY",
-        "price":3700,
-        "country":"PERU",
-        "image":"https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbe0c1bca2fa533790a415_ben%20bejster-p-500.jpeg"
-    }]
+        {
+            "name": "JACKSON",
+            "role": "Fullstack webdeveloper",
+            "skills": "WIX SHOPIFY",
+            "price": 3500,
+            "country": "CANADA",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5fc5654371789c20ff80743c_vince-adriatico-p-500.jpeg"
+        },
+
+        {
+            "name": "HARI POU",
+            "role": "Frontend webdeveloper",
+            "skills": "HTML CSS JS",
+            "price": 2300,
+            "country": "SRILANKA",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbe10fb414c7471aa7fd12_braden%20cox-p-500.png"
+        },
+
+        {
+            "name": "NITHIN BOROUA",
+            "role": "Backend webdeveloper",
+            "skills": "PYTHON DJANGO MYSQL",
+            "price": 3600,
+            "country": "NEPAL",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbe84981168b0eaf8f8381_ricky%20altizer1-p-500.jpeg"
+        },
+        {
+            "name": "HAM BURG",
+            "role": "Fullstack webdeveloper",
+            "skills": "WORDPRESS WEBFLOW",
+            "price": 4600,
+            "country": "UK",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5f5a8e00fc5939ce390e18b5_Evan.png"
+        },
+
+        {
+            "name": "FONNI MIE",
+            "role": "Fullstack webdeveloper",
+            "skills": "WIX SHOPIFY",
+            "price": 3700,
+            "country": "PERU",
+            "image": "https://assets.website-files.com/5e9777bbfe6d41fee29e11c7/5edbe0c1bca2fa533790a415_ben%20bejster-p-500.jpeg"
+        }
+    ]
 }
